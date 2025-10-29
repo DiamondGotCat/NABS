@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-# -- PyYPSH ----------------------------------------------------- #
-# nabs.py on PyYPSH                                               #
+# -- NABS ------------------------------------------------------- #
+# pynabs.py on NABS                                               #
 # Made by DiamondGotCat, Licensed under MIT License               #
 # Copyright (c) 2025 DiamondGotCat                                #
 # ---------------------------------------------- DiamondGotCat -- #
